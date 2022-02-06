@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-6v58$iwb0c!+jc@-il-n6=rcf2fgppj+fvck4s_+=nnekerat7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ultimatecarrental.co.zw/','www.ultimatecarrental.co.zw/']
 
 # Application definition
 INSTALLED_APPS = [
